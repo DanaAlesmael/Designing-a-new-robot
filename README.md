@@ -10,7 +10,7 @@ In this task, the main foucs was designing a new robot to do specific tasks with
 
 * Neck: 
 
-* Body: Since the body will contain various components such as papaer holder, push button, and OLED screen, its design was made simply with one block that was emptied from inside to help organizing all electrical components.
+* Body: Since the body will contain various components such as papaer holder, push button, and OLED screen, its design was made simply with one block that was emptied from inside to help organizing all electrical components. For accurate design and perfect fit of all mentioned components, their datasheet were followed.
 
 1. For organization purpose, a holder for the papaers that need to be submited was designed. This part has Rack and pinion gear attached to its lower part and can be controlled using a specific type of motors. The following video can be used as a reference: https://www.youtube.com/watch?v=vbQr3A-YAr0
 
