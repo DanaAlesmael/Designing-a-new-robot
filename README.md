@@ -12,7 +12,7 @@ In this task, the main foucs was designing a new robot to do specific tasks with
 
 * Body: Since the body will contain various components such as papaer holder, push button, and OLED screen, its design was made simply with one block that was emptied from inside to help organizing all electrical components. For accurate design and perfect fit of all mentioned components, their datasheet were followed.
 
-1. For organization purpose, a holder for the papaers that need to be submited was designed. This part has Rack and pinion gear attached to its lower part and can be controlled using a specific type of motors. The following videos can be used as a reference: https://www.youtube.com/watch?v=vbQr3A-YAr0 and https://www.youtube.com/watch?v=8ci4ssVTRz0
+1. For organization purpose, a holder for the papaers that need to be submited was designed. This part has something similar to Rack and pinion gear attached to its side and can be controlled using a specific type of motors that located at the back. Everytime the servo moves, the attached component will rotate reulting the drawser to open. The following videos can be used as a reference: https://www.youtube.com/watch?v=vbQr3A-YAr0 and https://www.youtube.com/watch?v=8ci4ssVTRz0
 
 2. The idea of push button was integrated to control the papaer holder part in which pressing this button will result the holder to open so that the user can take a paper. This all can be done using a programming language to determine the moving angle of the motor as this button pressed. 
 [Extra: Another idea thought of was using motion sensor for automatic opening process in which the distance that determine when this condition is true should be calculated]. 
