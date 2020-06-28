@@ -4,9 +4,11 @@ In this task, the main foucs was designing a new robot to do specific tasks with
 
 * Head: Since robots are created with the purpose to mimic normal human activities, the idea of half robot and half human face was applied. 
 
-1. Robot side:
+1. Robot side: This side contained the basic elements that represent robots.
 
-2. Human side: 
+2. Human side: This side contained simple drawing of half eyes, nose, and lip. 
+
+- The idea was to give the face on the side more robotic look by adding different materials. However, it was kept simple due to shortage of time.  
 
 * Neck: 
 
@@ -17,7 +19,7 @@ In this task, the main foucs was designing a new robot to do specific tasks with
 2. The idea of push button was integrated to control the papaer holder part in which pressing this button will result the holder to open so that the user can take a paper. This all can be done using a programming language to determine the moving angle of the motor as this button pressed. 
 [Extra: Another idea thought of was using motion sensor for automatic opening process in which the distance that determine when this condition is true should be calculated]. 
 
-3. OLED screen was also integrated as an indicator of the contained papers' number. It should be programmed to welcome the user first as the button pressed and then when the holder closed, a number should be displayed. This number to demonstrate number of papers left on the holder. [Extra: It can display time and date when no operation is happening]. 
+3. OLED screen was also integrated as an indicator of the contained papers' number. It should be programmed to welcome the user first as the button pressed and then when the holder closed, a number should be displayed. This number to demonstrate number of papers left on the holder. [Extra: It can display time and date when no operation is happening]. Velcro can be used to attach the screen to the robot's body for easiness. 
 
 * Hands: 
 
@@ -26,8 +28,7 @@ In this task, the main foucs was designing a new robot to do specific tasks with
 
 
 Various considerations should be taken into account before starting this process: 
-* Number of motors: 
-* Location of motors: 
+* Number and location of motors: To avoid complecating stuff, poppy robot was followed as a referece in terms of number and location of motors in which they were fixed depending on the main functionality of this new robot which is distributing papers. 
 * Connection parts [screws, hinge,...]:  
 * Cost: 
 * Weight: 
