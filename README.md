@@ -23,7 +23,7 @@ In this task, the main foucs was designing a new robot to do specific tasks with
 
 * Hands: 
 
-* Legs: Since the main functionality of this robot was clear from the begining, it made the robot legs' designing easier. To move away fom the normal shape and previous tasks, a scooter-like component was attached to the robot.
+* Legs: Since the main functionality of this robot was clear from the begining, it made the robot legs' designing easier. To move away fom the normal shape and previous tasks, a scooter-like component was attached to the robot. [The idea of this is similar to "pepper robot"]. 
 
 
 
