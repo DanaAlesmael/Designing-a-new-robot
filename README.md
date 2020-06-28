@@ -15,6 +15,7 @@ In this task, the main foucs was designing a new robot to do specific tasks with
 1. For organization purpose, a holder for the papaers that need to be submited was designed. This part has Rack and pinion gear attached to its lower part and can be controlled using a specific type of motors. The following videos can be used as a reference: https://www.youtube.com/watch?v=vbQr3A-YAr0 and https://www.youtube.com/watch?v=8ci4ssVTRz0
 
 2. The idea of push button was integrated to control the papaer holder part in which pressing this button will result the holder to open so that the user can take a paper. This all can be done using a programming language to determine the moving angle of the motor as this button pressed. 
+[Extra: Another idea thought of was using motion sensor for automatic opening process in which the distance that determine when this condition is true should be calculated]. 
 
 3. OLED screen was also integrated as an indicator of the contained papers' number. It should be programmed to welcome the user first as the button pressed and then when the holder closed, a number should be displayed. This number to demonstrate number of papers left on the holder. [Extra: It can display time and date when no operation is happening]. 
 
