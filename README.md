@@ -1,12 +1,12 @@
 # Designing-a-new-robot
 
-In this task, the main foucs was designing a new robot to do specific tasks without using any an exsiting design/files. A hand sketch of various ideas was made to finalize the appearance of the robot. The following points summarize the main points and reasons of why it was designed that way:
+In this task, the main foucs was designing a new robot to do specific tasks without relaying on exsiting design/files. A hand sketch of various ideas was made to finalize the appearance of the robot. The following points summarize the main points and reasons of why it was designed that way:
 
 * Head: Since robots are created with the purpose to mimic normal human activities, the idea of half robot and half human face was applied. 
 
-1. Robot side: This side contained the basic elements that represent robots.
+1. Robot side: This side contained the basic elements that represent robots. 
 
-2. Human side: This side contained simple drawing of half eyes, nose, lip, and hair. 
+2. Human side: This side contained simple drawing of half eyes, nose, lip, and hair. As noticed, the skin colour of this side is different too. 
 
 - The idea was to give the face on the side more robotic look by adding different materials. However, it was kept simple due to shortage of time.  
 
@@ -28,6 +28,7 @@ In this task, the main foucs was designing a new robot to do specific tasks with
 
 
 Various considerations should be taken into account before starting this process: 
+* Appearance: Since the robot will greet and meet people, I tried to make the robot has a good appearance so that people can be happy when meeting it.
 * Electrical components: 
 * Number and location of motors: To avoid complecating stuff, poppy robot was followed as a referece in terms of number and location of motors in which they were fixed depending on the main functionality of this new robot which is distributing papers. 
 * Connection parts [screws, hinge,...]:  
