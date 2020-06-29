@@ -6,7 +6,7 @@ In this task, the main foucs was designing a new robot to do specific tasks with
 
 1. Robot side: This side contained the basic elements that represent robots. 
 
-2. Human side: This side contained simple drawing of half eyes, nose, lip, and hair. As noticed, the skin colour of this side is different too. 
+2. Human side: This side contained simple drawing of half eyes, nose, lip, and hair. The eye can be attached using velcro to avoid having many holes. As noticed, the skin colour of this side is different too. 
 
 - The idea was to give the face on the side more robotic look by adding different materials. However, it was kept simple due to shortage of time.  
 
