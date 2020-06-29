@@ -12,7 +12,7 @@ In this task, the main foucs was designing a new robot to do specific tasks with
 
 * Neck: 
 
-* Body: Since the body will contain various components such as papaer holder, push button, and OLED screen, its design was made simply with one block that was emptied from inside to help organizing all electrical components. For accurate design and perfect fit of all mentioned components, their datasheet were followed.
+* Body: Since the body will contain various components such as papaer holder, push button, and OLED screen, its design was made simply with one block that was emptied from inside and slimed from outside to help organizing all electrical components and balacen/ or easier movement, respectively. For accurate design and perfect fit of all mentioned components, their datasheet were followed.
 
 1. For organization purpose, a holder for the papaers that need to be submited was designed. This part has something similar to Rack and pinion gear attached to its side and can be controlled using a specific type of motors that located at the back. Everytime the servo moves, the attached component will rotate reulting the drawser to open. The following videos can be used as a reference: https://www.youtube.com/watch?v=vbQr3A-YAr0 and https://www.youtube.com/watch?v=8ci4ssVTRz0
 
@@ -28,7 +28,8 @@ In this task, the main foucs was designing a new robot to do specific tasks with
 
 
 Various considerations should be taken into account before starting this process: 
+* Electrical components: 
 * Number and location of motors: To avoid complecating stuff, poppy robot was followed as a referece in terms of number and location of motors in which they were fixed depending on the main functionality of this new robot which is distributing papers. 
 * Connection parts [screws, hinge,...]:  
-* Cost: 
-* Weight: 
+* Cost.
+* Weight.
