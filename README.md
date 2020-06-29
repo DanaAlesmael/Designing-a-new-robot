@@ -31,6 +31,6 @@ Various considerations should be taken into account before starting this process
 * Appearance: Since the robot will greet and meet people, I tried to make the robot has a good appearance so that people can be happy when meeting it.
 * Electrical components: 
 * Number and location of motors: To avoid complecating stuff, poppy robot was followed as a referece in terms of number and location of motors in which they were fixed depending on the main functionality of this new robot which is distributing papers. 
-* Connection parts [screws, hinge,...]:  
-* Cost.
-* Weight.
+* Connection parts [screws]:  Small holes were made in the robot body to be able to connect all parts together. They can be found on the side to hold the drawser and at the back to hold the motor that will help in the process of opening the drawser. 
+* Weight: Almost all parts were wmptied from inside for easier movement and for organization purpose [for wires]. 
+* Cost. 
