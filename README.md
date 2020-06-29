@@ -10,7 +10,7 @@ In this task, the main foucs was designing a new robot to do specific tasks with
 
 - The idea was to give the face on the side more robotic look by adding different materials. However, it was kept simple due to shortage of time.  
 
-* Neck: 
+* Neck: it was designed simply to attach the robot head with its body in which 2 holes from upper and lower bodies were created for easier assebly. It was empty from inside so in case the empty space in the body was not enough to organize all the wires, this part can also be used.  
 
 * Body: Since the body will contain various components such as papaer holder, push button, and OLED screen, its design was made simply with one block that was emptied from inside and slimed from outside to help organizing all electrical components and balacen/ or easier movement, respectively. For accurate design and perfect fit of all mentioned components, their datasheet were followed.
 
