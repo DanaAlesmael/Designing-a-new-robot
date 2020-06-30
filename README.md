@@ -8,7 +8,7 @@ In this task, the main foucs was designing a new robot to do specific tasks with
 
 2. Human side: This side contained simple drawing of half eyes, nose, lip, and hair. The eye can be attached using velcro to avoid having many holes. As noticed, the skin colour of this side is different too. 
 
-- The idea was to give the face on the side more robotic look by adding different materials. However, it was kept simple due to shortage of time.  
+The idea was to give the face on the side more robotic look by adding different materials. However, it was kept simple due to shortage of time.  
 
 * Neck: it was designed simply to attach the robot head with its body in which 2 holes from upper and lower bodies were created for easier assebly. It was empty from inside so in case the empty space in the body was not enough to organize all the wires, this part can also be used.  
 
