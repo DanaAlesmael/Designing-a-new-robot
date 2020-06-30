@@ -18,7 +18,7 @@ In this task, the main foucs was designing a new robot to do specific tasks with
 
 2. The idea of push button was integrated to control the papaer holder part in which pressing this button will result the holder to open so that the user can take a paper. This all can be done using a programming language to determine the moving angle of the motor as this button pressed. 
 [Extra: Another idea thought of was using motion sensor for automatic opening process in which the distance that determine when this condition is true should be calculated]. 
-This part can be replaced by a sensor in which it can sense people around it. If this condition comes true, the drawser will open allowing the robot to take a paper and give it to the user. 
+This part can be replaced by a sensor in which it can sense people movement around it. If this condition comes true, the drawser will open allowing the robot to take a paper and give it to the user. In this case, a motor should be added to control the index and thumb movement. 
 
 3. OLED screen was also integrated as an indicator of the contained papers' number. It should be programmed to welcome the user first as the button pressed and then when the holder closed, a number should be displayed. This number to demonstrate number of papers left on the holder. [Extra: It can display time and date when no operation is happening]. Velcro can be used to attach the screen to the robot's body for easiness. 
 
@@ -35,3 +35,9 @@ Various considerations should be taken into account before starting this process
 * Connection parts [screws]:  Small holes were made in the robot body to be able to connect all parts together. They can be found on the side to hold the drawser and at the back to hold the motor that will help in the process of opening the drawser. 
 * Weight: Almost all parts were wmptied from inside for easier movement and for organization purpose [for wires]. 
 * Cost. 
+
+
+Various difficulties countered while designing: 
+* Organizing specific places for all motors that should be used to control the robot. 
+* Deciding number of motors.
+* Connecting the arm to the robot's body. 
