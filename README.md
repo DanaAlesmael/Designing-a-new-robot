@@ -2,7 +2,7 @@
 
 In this task, the main foucs was designing a new robot to do specific tasks without relaying on exsiting design/files. A hand sketch of various ideas was made to finalize the appearance of the robot. The following points summarize the main points and reasons of why it was designed that way:
 
-* Head: Since robots are created with the purpose to mimic normal human activities, the idea of half robot and half human face was applied. 
+* Head: Since robots are created with the purpose to mimic normal human activities, the idea of half robot and half human face was applied. [The idea was inspired from one of my drawing, which can be seen in handsketch file].
 
 1. Robot side: This side contained the basic elements that represent robots. A hat from an open source was used and modified in which the letter "S" waas added to represent the company's initial (For smart method). Since the second letter was hard to modified, it kept as it is.
 
