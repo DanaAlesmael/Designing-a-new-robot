@@ -22,7 +22,7 @@ This part can be replaced by a sensor in which it can sense people around it. If
 
 3. OLED screen was also integrated as an indicator of the contained papers' number. It should be programmed to welcome the user first as the button pressed and then when the holder closed, a number should be displayed. This number to demonstrate number of papers left on the holder. [Extra: It can display time and date when no operation is happening]. Velcro can be used to attach the screen to the robot's body for easiness. 
 
-* Hands: 
+* Hands: To save time, the arm design was taken from an open source files and modified depending on my preference to improve its appearance.  
 
 * Legs: Since the main functionality of this robot was clear from the begining, it made the robot legs' designing easier. To move away fom the normal shape and previous tasks, a scooter-like component was attached to the robot. [The idea of this is similar to "pepper robot"]. 
 
