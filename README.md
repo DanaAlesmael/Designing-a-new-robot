@@ -4,7 +4,7 @@ In this task, the main foucs was designing a new robot to do specific tasks with
 
 * Head: Since robots are created with the purpose to mimic normal human activities, the idea of half robot and half human face was applied. 
 
-1. Robot side: This side contained the basic elements that represent robots. 
+1. Robot side: This side contained the basic elements that represent robots. A hat from an open source was used and modified in which the letter "S" waas added to represent the company's initial (For smart method). Since the second letter was hard to modified, it kept as it is.
 
 2. Human side: This side contained simple drawing of half eyes, nose, lip, and hair. The eye can be attached using velcro to avoid having many holes. As noticed, the skin colour of this side is different too. 
 
